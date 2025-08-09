@@ -12,7 +12,7 @@ It provides insights into **sales performance, revenue trends, product analysis,
 ## 🗂 Dataset
 
 * **Source:** Power BI sample sales dataset *(or replace with your dataset name)*
-* **File:** `sample_sales.csv` *(replace with your actual filename)*
+* **File:** `sample_sales.csv` 
 * **Key Columns:**
 
   * `Order Date` – Date of sale
