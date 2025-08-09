@@ -1,0 +1,11 @@
+OrderID,Region,SalesPerson,Product,UnitsSold,UnitPrice,TotalSale
+101,East,Alice,Laptop,5,900,4500
+102,West,Bob,Tablet,3,300,900
+103,East,Alice,Laptop,7,900,6300
+104,South,David,Monitor,4,200,800
+105,West,Bob,Tablet,2,300,600
+106,South,David,Monitor,6,200,1200
+107,East,Alice,Laptop,3,900,2700
+108,North,Eve,Printer,1,150,150
+109,North,Eve,Printer,2,150,300
+110,West,Bob,Tablet,5,300,1500
