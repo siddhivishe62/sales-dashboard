@@ -2,6 +2,18 @@
 Power BI analysis of Sales dataset
 # 📊 Task 3 - Sample Sales Dashboard – Power BI
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: SIDDHI RAMESH VISHE
+
+*INTERN ID*: CT08DH665
+
+*DOMAIN*: DATA ANALYTICS
+
+*DURATION*: 8 Weeks
+
+*MENTOR* : NEELA SANTOSH
+
 ## 📌 Project Overview
 
 This project is an **interactive Power BI dashboard** built using a sample sales dataset.
