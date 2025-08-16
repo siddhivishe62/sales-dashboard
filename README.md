@@ -1,6 +1,6 @@
 # sales-dashboard
 Power BI analysis of Sales dataset
-# 📊 Task 3- Sample Sales Dashboard – Power BI
+# 📊 Task 3 - Sample Sales Dashboard – Power BI
 
 ## 📌 Project Overview
 
